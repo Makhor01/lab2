@@ -1,14 +1,14 @@
-package org.itmo.lab2.option31259.pokemonsmove.Yveltal;
+package org.itmo.lab2.pokemonsmove.Yveltal;
 import ru.ifmo.se.pokemon.*;
 import ru.ifmo.se.pokemon.Type;
 
-public class FocusBlast extends SpecialMove{
-    public FocusBlast(double pow, double acc){
-        super(Type.FIGHTING,pow,acc);
+public class Psychic extends SpecialMove{
+    public Psychic(double pow, double acc){
+        super(Type.PSYCHIC,pow,acc);
     }
     @Override
     protected String describe() {
-        return "use focus blast";
+        return "use psychic";
     }
     @Override
     protected void applyOppEffects(Pokemon p) {
@@ -18,4 +18,7 @@ public class FocusBlast extends SpecialMove{
         }
     }
 
+    //protected void applyOppEffects(Pokemon p) {
+    //    if (Math.random() <= 0.3) Effect.(p);
+    //}
 }

@@ -1,4 +1,4 @@
-package org.itmo.lab2.option31259.pokemonsmove.Cacnea;
+package org.itmo.lab2.pokemonsmove.Cacnea;
 import ru.ifmo.se.pokemon.*;
 
 

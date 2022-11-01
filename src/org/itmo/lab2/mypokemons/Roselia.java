@@ -1,7 +1,6 @@
-package org.itmo.lab2.option31259.mypokemons;
-import org.itmo.lab2.option31259.pokemonsmove.Roserade.*;
-import ru.ifmo.se.pokemon.Pokemon;
-import ru.ifmo.se.pokemon.Type;
+package org.itmo.lab2.mypokemons;
+import org.itmo.lab2.pokemonsmove.Roserade.*;
+import org.itmo.lab2.pokemonsmove.Roserade.GigaDrain;
 
 public class Roselia extends Budew{
     public Roselia(String name, int level) {

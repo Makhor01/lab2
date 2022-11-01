@@ -1,4 +1,4 @@
-package org.itmo.lab2.option31259.pokemonsmove.Yveltal;
+package org.itmo.lab2.pokemonsmove.Yveltal;
 import ru.ifmo.se.pokemon.*;
 import ru.ifmo.se.pokemon.Type;
 

@@ -1,4 +1,4 @@
-package org.itmo.lab2.option31259.pokemonsmove.Roserade;
+package org.itmo.lab2.pokemonsmove.Roserade;
 
 import ru.ifmo.se.pokemon.*;
 

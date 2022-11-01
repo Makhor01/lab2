@@ -1,5 +1,7 @@
-package org.itmo.lab2.option31259.mypokemons;
-import org.itmo.lab2.option31259.pokemonsmove.Roserade.*;
+package org.itmo.lab2.mypokemons;
+import org.itmo.lab2.pokemonsmove.Roserade.*;
+import org.itmo.lab2.pokemonsmove.Roserade.PoisonJab;
+
 public class Roserade extends Roselia{
     public Roserade(String name, int level) {
         super(name, level);

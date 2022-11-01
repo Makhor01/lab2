@@ -1,6 +1,6 @@
-package org.itmo.lab2.option31259;
-import org.itmo.lab2.option31259.*;
-import org.itmo.lab2.option31259.mypokemons.*;
+package org.itmo.lab2;
+import org.itmo.lab2.mypokemons.*;
+import org.itmo.lab2.mypokemons.*;
 import ru.ifmo.se.pokemon.*;
 public class Main {
     public static void main(String[] args) {

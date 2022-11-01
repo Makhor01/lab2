@@ -1,4 +1,4 @@
-package org.itmo.lab2.option31259.pokemonsmove;
+package org.itmo.lab2.pokemonsmove;
 import ru.ifmo.se.pokemon.*;
 import ru.ifmo.se.pokemon.Type;
 

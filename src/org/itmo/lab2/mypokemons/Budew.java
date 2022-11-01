@@ -1,7 +1,8 @@
-package org.itmo.lab2.option31259.mypokemons;
+package org.itmo.lab2.mypokemons;
 
-import org.itmo.lab2.option31259.Main;
-import org.itmo.lab2.option31259.pokemonsmove.Roserade.*;
+import org.itmo.lab2.pokemonsmove.Roserade.*;
+import org.itmo.lab2.pokemonsmove.Roserade.MegaDrain;
+import org.itmo.lab2.pokemonsmove.Roserade.SludgeBomb;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

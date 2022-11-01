@@ -1,10 +1,10 @@
-package org.itmo.lab2.option31259.mypokemons;
+package org.itmo.lab2.mypokemons;
 
 
-import org.itmo.lab2.option31259.pokemonsmove.Cacnea.Confide;
-import org.itmo.lab2.option31259.pokemonsmove.Cacnea.Facade;
-import org.itmo.lab2.option31259.pokemonsmove.Cacnea.FeintAttack;
-import org.itmo.lab2.option31259.pokemonsmove.Cacnea.*;
+import org.itmo.lab2.pokemonsmove.Cacnea.Confide;
+import org.itmo.lab2.pokemonsmove.Cacnea.Facade;
+import org.itmo.lab2.pokemonsmove.Cacnea.FeintAttack;
+import org.itmo.lab2.pokemonsmove.Cacnea.*;
 
 import ru.ifmo.se.pokemon.*;
 
